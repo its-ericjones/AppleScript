@@ -12,6 +12,7 @@ Here's a look at the final AppleScript file:
 ![subler-script](/Screenshots/Script.png)
 
 Here's a gif of the workflow in action:
+
 ![subler-gif-workflow](/Videos/Subler-Script.gif)
 
 This is what the workflow looks like in Subler if you were to execute it manually:
