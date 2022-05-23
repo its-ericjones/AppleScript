@@ -11,6 +11,9 @@ This is where automation comes into play. I created a script with AppleScript on
 Here's a look at the final AppleScript file:
 ![subler-script](/Screenshots/Script.png)
 
+Here's the script in action *video has been sped up for playback duration - realtime ~ 1 minute*:
+![subler-video](/Videos/Suber-Script.mp4)
+
 This is what the workflow looks like in Subler if you were to execute it manually:
 
 1. Importing Files
