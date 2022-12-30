@@ -6,7 +6,7 @@ My application of choice for this task is called Subler which allows me to searc
 
 The process of a few movies or shows is fairly straightforward with a couple clicks and export, however when you're trying to work with an entire tv series you end up having to do the same clicks over and over.
 
-This is where automation comes into play. I created a script with AppleScript on macOS that utilizes emulating keyboard shorcuts for the entire workflow.
+This is where automation comes into play. I created a script with AppleScript on macOS that utilizes emulating keyboard shortcuts for the entire workflow.
 
 Here's a look at the final AppleScript file:
 ![subler-script](./Screenshots/Script.png)
